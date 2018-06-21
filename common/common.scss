@@ -1,0 +1,17 @@
+// Scroll Bar ctOS.ro
+
+::-webkit-scrollbar {
+ width:10px;
+ background-color:#000000;
+}
+::-webkit-scrollbar-track {
+ background-color:#000000;
+ width:10px;
+ border-left:1px solid #131313;
+}
+::-webkit-scrollbar-thumb {
+ background-color:#28282c; 
+}
+::-webkit-scrollbar-thumb:hover {
+ background-color:#141418;
+}
